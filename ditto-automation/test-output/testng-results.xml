@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-30T21:02:09 IST" name="Default suite" finished-at="2025-11-30T21:02:23 IST" duration-ms="14051">
+    <groups>
+    </groups>
+    <test started-at="2025-11-30T21:02:09 IST" name="Default test" finished-at="2025-11-30T21:02:23 IST" duration-ms="14051">
+      <class name="tests.DittoTest">
+        <test-method is-config="true" signature="initReport()[pri:0, instance:tests.DittoTest@6989da5e]" started-at="2025-11-30T21:02:09 IST" name="initReport" finished-at="2025-11-30T21:02:09 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.DittoTest@6989da5e]" started-at="2025-11-30T21:02:09 IST" name="setup" finished-at="2025-11-30T21:02:11 IST" duration-ms="1483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatePremiumCalculation()[pri:0, instance:tests.DittoTest@6989da5e]" started-at="2025-11-30T21:02:11 IST" name="validatePremiumCalculation" finished-at="2025-11-30T21:02:23 IST" duration-ms="12435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePremiumCalculation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.DittoTest@6989da5e]" started-at="2025-11-30T21:02:23 IST" name="tearDown" finished-at="2025-11-30T21:02:23 IST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:tests.DittoTest@6989da5e]" started-at="2025-11-30T21:02:28 IST" name="flushReport" finished-at="2025-11-30T21:02:28 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+      </class> <!-- tests.DittoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
