@@ -54,38 +54,37 @@ All required validations and calculations remain **100% aligned** with the assig
 ---
 
 # 📂 **Project Structure**
-
-ditto-automation/
+📁 ditto-automation/
 │
-├── pom.xml
-├── testng.xml
-├── README.md
+├── 📄 pom.xml
+├── 📄 testng.xml
+├── 📝 README.md
 │
-├── reports/
-│ └── DittoAutomationReport.html
+├── 📁 reports/
+│ └── 📄 DittoAutomationReport.html
 │
-├── screenshots/
-│ └── *.png
+├── 📁 screenshots/
+│ └── 🖼 *.png
 │
-└── src/
-├── main/java/
-│ ├── base/
-│ │ └── BaseTest.java
+└── 📁 src/
+├── 📁 main/java/
+│ ├── 📁 base/
+│ │ └── 📄 BaseTest.java
 │ │
-│ ├── pages/
-│ │ ├── LandingPage.java
-│ │ ├── MemberPage.java
-│ │ ├── PlanPage.java
-│ │ ├── PolicyPage.java
-│ │ └── PremiumSummaryPage.java
+│ ├── 📁 pages/
+│ │ ├── 📄 LandingPage.java
+│ │ ├── 📄 MemberPage.java
+│ │ ├── 📄 PlanPage.java
+│ │ ├── 📄 PolicyPage.java
+│ │ └── 📄 PremiumSummaryPage.java
 │ │
-│ └── utils/
-│ ├── WaitUtils.java
-│ └── ScreenshotUtils.java
+│ └── 📁 utils/
+│ ├── 📄 WaitUtils.java
+│ └── 📄 ScreenshotUtils.java
 │
-└── test/java/
-└── tests/
-└── DittoTest.java ← Main Test Class
+└── 📁 test/java/
+└── 📁 tests/
+└── 🧪 DittoTest.java ← Main Test Class
 
 📘 Automated Scenario Steps
 1️⃣ Landing Page
