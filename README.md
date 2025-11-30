@@ -1,6 +1,6 @@
 # 🚀 Ditto Insurance – Automation Framework  
 ### **Care Supreme Health Plan – Premium Validation Test**
-#### _Author: **Raji Nadar**_
+#### _Author: **Rajeshwari Nadar**_
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-11-blue" />
